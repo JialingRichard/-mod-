@@ -1,5 +1,11 @@
 # -mod-
 钢丝mod增加脚本如下
+### 下载方法 ###
+完全没用过GitHub的同学，直接点这个Code按钮
+![image](https://user-images.githubusercontent.com/81303390/210190347-beefecaf-5bbf-4d13-999b-e2f91e27cd37.png)
+再点击下载ZIP
+![image](https://user-images.githubusercontent.com/81303390/210190361-19710d53-eb6b-49d6-b681-4906ad808e99.png)
+下载完了解压就行
 
 ### 使用方法 ###
 
