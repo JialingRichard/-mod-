@@ -10,15 +10,16 @@ python脚本不用管，只需要用到.exe可执行文件
 
 然后运行输入p社文档里面的mod目录地址
 
-![image](https://user-images.githubusercontent.com/81303390/210189967-3e87ee23-ab48-4444-8dcf-141d5e04e0d1.png)
+![image](https://user-images.githubusercontent.com/81303390/210190168-62563720-7c5d-4ee1-8edf-63a2faf67898.png)
 
-![image](https://user-images.githubusercontent.com/81303390/210189977-c44a9c0e-0481-4fcf-8f09-e83a208a29c2.png)
+![image](https://user-images.githubusercontent.com/81303390/210189967-3e87ee23-ab48-4444-8dcf-141d5e04e0d1.png)
+（输入的地址即上一个图里面箭头所指的地址）
 
 注意，每个人的文档地址和mod实际存放地址会不一样，自己复制粘贴。
 然后回车运行即可，这样就在p社的文档目录里面添加好了
 
 ![image](https://user-images.githubusercontent.com/81303390/210190087-61614154-6cfd-42b1-9d4a-d17869061181.png)
-
+（可以打开记事本康一康）
 
 
 
